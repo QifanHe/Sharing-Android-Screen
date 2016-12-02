@@ -2,76 +2,94 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_dd65a19828c3e7719918a8c2f7c52be0bda965c5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_da4ca1cbcf0264059f8819ff19d92da09f7c2a98.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_524ef2c12c2853afd93a537495b0cddc45af7343.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_813fe0e50fe27b470d1a0521e9a22900a088d06b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/heqifan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_8f619cadb95c5ad51fd3c3b0d79dda22f7000fff.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_74fcc923c29c83e2a622a7b3fedcda7784ab5617.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_6aa7714f6ef0d1fb057e04ce85b084f854f6b088.jar" />
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_474ff1d134533da6fb395e318a37d6a4d8888be0/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_c51dc2b4344c644ea4e1e74b8b3927d1431968ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="/Users/heqifan/Downloads/Linkedout/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_6f82589aa99c43373281808a21102141de19f112.jar" />
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_ce4abce154ae2d91a41be41c2992ac89ae1c5e09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_6e581aaae25380eb8cd8e3f3c7cf6197441bf965/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_0b6fbac9c95087373c34c48d75a254643a8d43f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_2dd0e435e7f9e0b896d7fa123d895fc35d3cbd00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="180993a4e9a1d6f6dbb3eb7ad175a4709053f0f0">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9df19658044aa5efe1a8aa8aed4b9bc7ac06213d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_d49b3450ebbf308b67ac262d4e38b979905f9217/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_846d777d1e6bd3e9634eacb9865face2c83f0dc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ae03251fb269a049a1a1587bca181a7ebe99756f">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_10dbb5d8ed8692f83ca4e445b87336a73844c70c/classes.dex" />
     </item>
 
 </items>
