@@ -23,13 +23,19 @@ import android.util.Log;
 import android.util.SparseIntArray;
 import android.view.Surface;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ToggleButton;
 
 import java.io.IOException;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+
+   public ImageView btn_exit;
+    public TextView tv_userName;
+    public String userName;
+
 
     private static final String TAG = "MainActivity";
     private static final int REQUEST_CODE = 1000;
@@ -49,7 +55,12 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getSupportActionBar().hide();
         setContentView(R.layout.activity_main);
+        InitView();
+        Bundle bundle = getIntent().getExtras();
+        userName = bundle.getString("userName");
+        tv_userName.setText(userName);
         DisplayMetrics metrics = new DisplayMetrics();//get screen resolution
         getWindowManager().getDefaultDisplay().getMetrics(metrics);//get screen resolution
         mScreenDensity = metrics.densityDpi;//get ratio of DPI : 160
@@ -98,6 +109,20 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    private void InitView() {
+        btn_exit = (ImageView) findViewById(R.id.btn_exit);
+        btn_exit.setOnClickListener(this);
+        tv_userName = (TextView) findViewById(R.id.tv_userName);
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()){
+            case R.id.btn_exit:
+                MainActivity.this.finish();
+                break;
+        }
+    }
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (requestCode != REQUEST_CODE) {
