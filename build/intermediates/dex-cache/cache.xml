@@ -3,48 +3,57 @@
 
     <item
         is-multidex="true"
-        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_474ff1d134533da6fb395e318a37d6a4d8888be0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_c51dc2b4344c644ea4e1e74b8b3927d1431968ad/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_ce4abce154ae2d91a41be41c2992ac89ae1c5e09/classes.dex" />
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_756a4ed15cfa6d2ddd416aaf8657b395c123d549/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_6e581aaae25380eb8cd8e3f3c7cf6197441bf965/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_0b6fbac9c95087373c34c48d75a254643a8d43f1/classes.dex" />
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_f7fa98a703e4b9aa6eb54c45185d30affe77546d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_f88cb3acb18ac93b85c0a5b90d91621e513b1316/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_85c03c769c9b1ce913d964eeb56d46c873d3b897/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_ad8d9d5ebb3003cd7b53fd6b910c5d2e1bd46eaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4a06240810c28d201de2e67e1090f81f0b398ee2">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c7595babc703b0b23b14a16c1d3b3049492db263/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -53,43 +62,34 @@
         optimize="true"
         revision="23.0.2"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_2dd0e435e7f9e0b896d7fa123d895fc35d3cbd00/classes.dex" />
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_2dd0e435e7f9e0b896d7fa123d895fc35d3cbd00/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="180993a4e9a1d6f6dbb3eb7ad175a4709053f0f0">
-        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9df19658044aa5efe1a8aa8aed4b9bc7ac06213d/classes.dex" />
+        sha1="36f6ca37923769712afde7aa7ebf4d5aa9c9814f">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d8b226fb0de335ccf0ab9c7faabea4793979210b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_d49b3450ebbf308b67ac262d4e38b979905f9217/classes.dex" />
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_f1b30c4787d01a3b560fba0607d4e59a3e33e4e2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_846d777d1e6bd3e9634eacb9865face2c83f0dc8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="ae03251fb269a049a1a1587bca181a7ebe99756f">
-        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_Qifan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_10dbb5d8ed8692f83ca4e445b87336a73844c70c/classes.dex" />
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/user/Desktop/Sharing-Android-Screen-Linkedout_v2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_ec6e5a7586f02a2c91901db96be08b744f6ba226/classes.dex" />
     </item>
 
 </items>
