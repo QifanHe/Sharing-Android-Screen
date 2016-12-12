@@ -23,6 +23,7 @@ import android.util.Log;
 import android.util.SparseIntArray;
 import android.view.Surface;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -107,6 +108,25 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }
             }
         });
+
+        Button bClock = (Button) findViewById(R.id.btn_main);
+        final String app = "com.yschi.castscreen";
+        bClock.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(Intent.ACTION_MAIN);
+                PackageManager managerClock = getPackageManager();
+                try{
+                    i = managerClock.getLaunchIntentForPackage(app);
+                    startActivity(i);
+                } catch(Exception err) {
+                    Toast t = Toast.makeText(getApplicationContext(),
+                            "App not found.", Toast.LENGTH_SHORT);
+                    t.show();
+                }
+            }
+        });
+
     }
 
     private void InitView() {
