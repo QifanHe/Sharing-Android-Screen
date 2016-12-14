@@ -1,8 +1,12 @@
 PC Requirements:
 
+OSX & Linux:
 1.Gstreamer 1.0 with H264 decoder (h264parse, avdec_h264)
 2.FFplay is required. input 'ffplay' in terminal to check.
 2.adb for mirror via USB. input 'adb' to check.'
+
+Windows:
+Not supported yet.
 
 Build and Install
 
