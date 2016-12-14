@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/linkedcall/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1ec8f90d68b23ff5a5417deece28db2f55d044d5">
+        <dex dex="/Users/user/Downloads/linkedcall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dec08792a3ac874eda85f1c0741016cf179561d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/linkedcall/app/libs/libjingle_peerconnection.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4cceb6c86ecbeaee3cc84f83b82a6a7bfe8704c">
+        <dex dex="/Users/user/Downloads/linkedcall/app/build/intermediates/transforms/dex/debug/folders/1000/2/libjingle_peerconnection_fd90694540178f2b997feb77433855ea4fb7a732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/linkedcall/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7f76f4f31d27a4cbd7f356407a93190526ec5779">
+        <dex dex="/Users/user/Downloads/linkedcall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_adb16b91a3ead696396dee6aee4a2f48cb8cc446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/linkedcall/app/libs/autobanh.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="/Users/user/Downloads/linkedcall/app/build/intermediates/transforms/dex/debug/folders/1000/2/autobanh_e285d1704c6d93e357a1b66e5dd8d0b78f1871e8/classes.dex" />
+    </item>
+
+</items>
