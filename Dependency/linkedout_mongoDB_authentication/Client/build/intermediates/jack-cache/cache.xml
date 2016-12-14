@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/retrofit-2.1.0-9fbfdda6ed7266ca06d9e29c35f930e13f078405.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-6b7b9ddc5256c791d6a393673956e5cfd75e57b1.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-436f008af8f79a7e92c4d32e415330fdf13d5142.jar" />
+    </item>
+    <item
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        revision="24.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/adapter-rxjava-2.1.0-86f38c88bdc31c48a62a5d4f777a38b79c3a6628.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-d8c1dd01fcc26c2e59cd7586eb390d088cc32332.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-17371b6d63162f47cff4646b6fa7782739ff0beb.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-29882d218940ac4802d42918e575aac74f5a6c8c.jar" />
+    </item>
+    <item
+        jar="/Users/user/Library/Android/sdk/platforms/android-24/optional/org.apache.http.legacy.jar"
+        revision="24.0.2"
+        sha1="fb7023e781abb70ed1b0442eb611fbed295cae84">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-b4161e88b3b5627f031c4de00998f4d714920889.jar" />
+    </item>
+    <item
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8/rxjava-1.2.0.jar"
+        revision="24.0.2"
+        sha1="42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-1.2.0-a389f2737e3a2f3eb555281a28a7d3678c5e9a77.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-82b2d3f7ba9940a54c65616698cce3e0e615b3bf.jar" />
+    </item>
+    <item
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/converter-gson-2.1.0-9a88059035a2a31ffd4369d80d337de42d39e0c2.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8fe8611e0d2d915d2b721a79c473473f982f235e.jar" />
+    </item>
+    <item
+        jar="/Users/user/Library/Android/sdk/platforms/android-24/android.jar"
+        revision="24.0.2"
+        sha1="d49cc0972df7adf495d3ad3d0cf71c0ec517ace4">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-1f31e33f45eac052283461a57189755081337093.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-e63d7d9f2fa2b59a25f72215eaceffee312093c5.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2a5cf236d8c278e4418ee035100b36e099e12b7e.jar" />
+    </item>
+    <item
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.8.0-bd85d573a9158ea46de019f0cf8a1412a2134843.jar" />
+    </item>
+    <item
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.7-f76c6851dd43dccd368c15e4b213f2c094ac1fc7.jar" />
+    </item>
+    <item
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        revision="24.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.3.0-ee155af64b701ea4f67dbb1f83270f3c00180ef9.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-44ff789b69addaf53f5ba181a5ce6eaf8ba24524.jar" />
+    </item>
+    <item
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-24.2.1-5b2f0c998f2abf1bf4e1175225061acebccfaab7.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f0b0acf4a6289895434f713b4b8f26ec06aeb069.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-115aeb439f1c62878e2f46aa7ab3778d9901bf2c.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9dcf45872b3844e9313e49452bfd042390b080d2.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0c9eb7b023e8bda9e14fd31b7931fdfe1d9604c2.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-497ef498a9643950c40692dcb446f93183352a4b.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b3265cc32fd906cce9ff63cee55e425680e85dcb.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c7200f1dfa818c3c2da8b15529317996c466860f.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/user/Desktop/Linkedout_mongoDB_authentication/Client/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-0e2832c576272d12d08f59331f781d58b8346f11.jar" />
+    </item>
+
+</items>
